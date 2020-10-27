@@ -1,4 +1,4 @@
-package com.krisz.backtrack;
+package com.kipu23.examples;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
